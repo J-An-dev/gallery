@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://j-an.org/gallery/</loc>
+    <lastmod>2020-06-14T19:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://j-an.org/gallery/new-york-summer-sunset/</loc>
+    <lastmod>2020-06-14T19:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://j-an.org/gallery/new-york-spring/</loc>
+    <lastmod>2020-04-06T10:21:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://j-an.org/gallery/new-york-xmas-2019/</loc>
+    <lastmod>2019-12-24T22:50:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://j-an.org/gallery/manhattan-and-brooklyn-bridge/</loc>
+    <lastmod>2019-12-22T15:06:41-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://j-an.org/gallery/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://j-an.org/gallery/tags/</loc>
+  </url>
+  
+</urlset>
