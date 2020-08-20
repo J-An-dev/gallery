@@ -275,7 +275,7 @@ body.modal-active #wrapper:after { -moz-pointer-events: auto; -webkit-pointer-ev
 body.loading #wrapper:before { -moz-transition: opacity 1s ease-out !important; -webkit-transition: opacity 1s ease-out !important; -ms-transition: opacity 1s ease-out !important; transition: opacity 1s ease-out !important; -moz-transition-delay: 0.5s !important; -webkit-transition-delay: 0.5s !important; -ms-transition-delay: 0.5s !important; transition-delay: 0.5s !important; opacity: 0.25; top: 50%; visibility: visible; }
 
 /* Header */
-body { padding: 0 0 4em 0; }
+body { padding: 0 0 2.2em 0; }
 
 #header { -moz-transform: translateY(0); -webkit-transform: translateY(0); -ms-transform: translateY(0); transform: translateY(0); -moz-transition: -moz-transform 1s ease; -webkit-transition: -webkit-transform 1s ease; -ms-transition: -ms-transform 1s ease; transition: transform 1s ease; -moz-user-select: none; -ms-user-select: none; -webkit-user-select: none; background: #1f2224; bottom: -0.2em; height: 2.5em; left: 0; line-height: 2.0em; padding: 0 1.15em; position: fixed; user-select: none; width: 100%; z-index: 10002; }
 body.loading #header { -moz-transform: translateY(4em); -webkit-transform: translateY(4em); -ms-transform: translateY(4em); transform: translateY(4em); }
